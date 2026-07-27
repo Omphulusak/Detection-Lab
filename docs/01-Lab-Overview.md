@@ -4,7 +4,7 @@
 
 The following diagram illustrates the complete Detection Lab environment, including the Vultr cloud infrastructure, Elastic Stack, Fleet Server, Windows endpoint, Mythic C2 server, and osTicket integration.
 
-![Detection Lab Architecture](../architecture/detection-lab-architecture.png)
+![Detection Lab Architecture](../screenshots/detection-lab-architecture.png)
 
 ## Introduction
 
