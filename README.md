@@ -1,5 +1,33 @@
 # Detection Lab
 
+> An end-to-end Security Operations Center (SOC) Detection Lab built using Elastic Stack, Fleet, Sysmon, Microsoft Defender, Mythic C2, and osTicket to simulate real-world attacks, engineer detections, investigate alerts, and document incident response.
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fleet-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic_Agent-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Mythic_C2-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/osTicket-0099CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KQL-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MITRE_ATT&CK-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white"/>
+
+</p>
+
 ## Architecture
 
 ![Detection Lab Architecture](screenshots/detection-lab-architecture.png)
@@ -30,6 +58,11 @@ The lab was built in Vultr Cloud using multiple virtual machines connected throu
 | Command & Control | Mythic C2 |
 | Ticketing | osTicket |
 | Operating Systems | Ubuntu Server, Windows Server 2025, Kali Linux |
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Omphulusak/Detection-Lab?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Omphulusak/Detection-Lab?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Omphulusak/Detection-Lab?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Omphulusak/Detection-Lab?style=for-the-badge)
 
 ---
 
