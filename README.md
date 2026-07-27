@@ -59,11 +59,6 @@ The lab was built in Vultr Cloud using multiple virtual machines connected throu
 | Ticketing | osTicket |
 | Operating Systems | Ubuntu Server, Windows Server 2025, Kali Linux |
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Omphulusak/Detection-Lab?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/Omphulusak/Detection-Lab?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Omphulusak/Detection-Lab?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Omphulusak/Detection-Lab?style=for-the-badge)
-
 ---
 
 ## Lab Objectives
