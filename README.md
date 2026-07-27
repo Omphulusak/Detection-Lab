@@ -1,5 +1,9 @@
 # Detection Lab
 
+## Architecture
+
+![Detection Lab Architecture](architecture/detection-lab-architecture.png)
+
 > An end-to-end Security Operations Center (SOC) Detection Lab built using Elastic Stack, Fleet, Sysmon, Microsoft Defender, Mythic C2, and osTicket to simulate real-world attacks, engineer detections, investigate alerts, and document incident response.
 
 ---
